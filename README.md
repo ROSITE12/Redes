@@ -9,4 +9,6 @@
 ---
 ![rerr](https://github.com/user-attachments/assets/a1b1e69b-be79-4a54-9ec0-e8533568b017)
 
-😺 Enlace a la tarea: 
+😺 Enlace a la tarea: https://github.com/ROSITE12/Redes/tarea_3.html
+
+
