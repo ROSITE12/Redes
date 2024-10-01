@@ -8,3 +8,4 @@ Rosa Elvira Huamaní Pucho (20200422)
 ## Visualización de la gráfica
 ![Uploading rerr.png…]()
 
+
