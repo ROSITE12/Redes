@@ -1,4 +1,4 @@
-# Tarea 3: Creación de redes a apartir de los resultados del CAD
+# Tarea 3: Creación de redes a apartir de los resultados del CAD 📊
 Rosa Elvira Huamaní Pucho (20200422)
 ---
 - El ejercicio tiene como objetivo evidenciar las relaciones entre las instituciones que han sido premiadas en la última edición de Ciudadanos al Día (CAD 2023), tomando en cuenta las categorías en las que han sido nominadas y los resultados obtenidos, ya sea como Buenas Prácticas, Mención honrosa, finalista o ganadora.
@@ -6,6 +6,6 @@ Rosa Elvira Huamaní Pucho (20200422)
 - Toda la información ha sido extraída manualmente desde el visualizador de datos del CAD y del boletín informativo detallado sobre la premiación 2023.
   
 ## Visualización de la gráfica
-![Uploading rerr.png…]()
 
+![rerr](https://github.com/user-attachments/assets/a1b1e69b-be79-4a54-9ec0-e8533568b017)
 
